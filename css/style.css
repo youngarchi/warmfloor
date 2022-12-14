@@ -877,7 +877,7 @@ body._lock {
     }
 }
 
-@media (max-width: 803px) {
+@media (max-width: 815px) {
     .infrared__inline__text {
         width: 350px;
     }
