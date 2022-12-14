@@ -319,6 +319,11 @@ body._lock {
     color: #FFFFFF;
 }
 
+@media (max-width : 1000px) {
+    .main__block-title-text {
+        padding: 12% 15px 0 15px;
+    }
+}
 
 
 .main__block1__title2 {
